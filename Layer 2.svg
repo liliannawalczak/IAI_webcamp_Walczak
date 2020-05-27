@@ -1,0 +1,15 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.49" height="16.49" viewBox="0 0 16.49 16.49">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Clipp" cx="8.245" cy="8.245" r="8.245"/>
+    </clipPath>
+  </defs>
+  <g id="Icons">
+    <g id="Facebook_Icon_01" data-name="Facebook Icon 01">
+      <g id="Group_343" data-name="Group 343" clip-path="url(#clip-path)">
+        <circle id="Background" cx="8.245" cy="8.245" r="8.245" fill="#3a559f"/>
+        <path id="F" d="M93.286,64.743l-1.714,0a3.01,3.01,0,0,0-3.17,3.253v1.5H86.679a.269.269,0,0,0-.269.269v2.174a.269.269,0,0,0,.269.269H88.4v5.753H91.19V72.2H93.2a.269.269,0,0,0,.27-.269V69.763a.27.27,0,0,0-.27-.27H91.19V68.221c0-.611.146-.921.941-.921h1.155a.27.27,0,0,0,.269-.269V65.012A.27.27,0,0,0,93.286,64.743Z" transform="translate(-81.555 -61.103)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
